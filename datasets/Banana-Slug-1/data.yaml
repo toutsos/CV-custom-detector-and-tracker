@@ -1,0 +1,12 @@
+names:
+- banana-slug-toy
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: banana-slug
+  url: https://universe.roboflow.com/cvfinal-ifkxw/banana-slug/dataset/1
+  version: 1
+  workspace: cvfinal-ifkxw
+test: ../test/images
+train: ../train/images
+val: ../valid/images
